@@ -1,6 +1,6 @@
 # Jitter
 
-For fun and exploration
+For fun and exploration - Test
 
 ## A Replit customized Rails vanilla app
 
