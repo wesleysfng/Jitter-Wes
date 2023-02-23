@@ -1,0 +1,2 @@
+class Jits < ApplicationRecord
+end
